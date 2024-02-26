@@ -55,4 +55,4 @@ RUN npm i
 
 ENTRYPOINT ["/root/run_regtest_app.sh"]
 
-EXPOSE 8080
+EXPOSE 80
